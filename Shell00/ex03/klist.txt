@@ -1,0 +1,5 @@
+Credentials cache: API:5141ADBA-284A-4B94-A72D-4BE35D6F08A8
+        Principal: fcil@42KOCAELI.COM.TR
+
+  Issued                Expires               Principal
+Nov 22 13:30:50 2021  Nov 22 23:30:50 2021  krbtgt/42KOCAELI.COM.TR@42KOCAELI.COM.TR
